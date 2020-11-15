@@ -1,0 +1,33 @@
+body {
+
+    color: hsl(0, 0%, 100%);
+    background-color: rgb(51, 122, 183);
+}
+
+h1 {
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+    text-shadow: 3px 3px 1px black;
+}
+
+select {
+
+    color: black;
+    display: block;
+    margin: 0 auto;
+    padding: 5px 5px 5px 5px;
+}
+
+#sample-metadata {
+
+    color: black;
+}
+
+
+.jumbotron {
+    background-image: url("../images/banner.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
